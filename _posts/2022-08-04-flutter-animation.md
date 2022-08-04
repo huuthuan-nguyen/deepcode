@@ -57,3 +57,11 @@ _controller?.forward();
 // or
 _controller?.reverse();
 ```
+6. remember to dispose animation to prevent memory leak
+```dart
+@override
+void dispose() {
+    super.dispose();
+    _controller?.dispose();
+}
+```
