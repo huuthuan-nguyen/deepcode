@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Flutter animations with Animation Builder"
+title:  "Flutter animations with Animated Builder"
 author: kean
 categories: [ Flutter, animation, builder ]
 image: assets/images/9.jpg
 ---
-We can implement animations with controller and animation widget, but there is better way to implement animation which allow you to create a complex animations that requires a widget and builder function. In this post, I will show you how to implement an animation in Flutter using Animation Builder
+We can implement animations with controller and animation widget, but there is better way to implement animation which allow you to create a complex animations that requires a widget and builder function. In this post, I will show you how to implement an animation in Flutter using Animated Builder
 
 1. First create an animation controller to control animation duration
 ```dart
@@ -75,7 +75,7 @@ void initState() {
 }
 ```
 
-Animation Builder is not limited to Animations, any subtype of Listenable (ChangeNotifier and ValueNotifier) can use with an AnimationBuilder to rebuild only specific widgets leaving others untouched.
+Animated Builder is not limited to Animations, any subtype of Listenable (ChangeNotifier and ValueNotifier) can use with an AnimationBuilder to rebuild only specific widgets leaving others untouched.
 5. trigger animation
 ```dart
 _controller?.forward();
