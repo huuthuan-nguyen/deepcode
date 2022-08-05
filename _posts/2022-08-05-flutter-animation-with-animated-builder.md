@@ -3,7 +3,7 @@ layout: post
 title:  "Flutter animations with Animated Builder"
 author: kean
 categories: [ Flutter, animation, builder ]
-image: assets/images/9.jpg
+image: assets/images/flutter-banner.jpg
 ---
 We can implement animations with controller and animation widget, but there is better way to implement animation which allow you to create a complex animations that requires a widget and builder function. In this post, I will show you how to implement an animation in Flutter using Animated Builder
 
