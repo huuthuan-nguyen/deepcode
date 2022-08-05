@@ -15,7 +15,11 @@ AnimationController? _controller;
 ```dart
 Animation<Size>? _heightAnimation;
 ```
-3. Initialize animation
+3. Add Ticker Provider mixin to your stateful widget
+```dart
+with SingleTickerProviderStateMixin
+```
+4. Initialize animation
 ```dart
 @override
 void initState() {
@@ -47,17 +51,17 @@ void initState() {
     });
 }
 ```
-4. Use in your widget
+5. Use in your widget
 ```dart
 _heightAnimation?.value.height
 ```
-5. trigger animation
+6. trigger animation
 ```dart
 _controller?.forward();
 // or
 _controller?.reverse();
 ```
-6. remember to dispose animation to prevent memory leak
+7. remember to dispose animation to prevent memory leak
 ```dart
 @override
 void dispose() {
