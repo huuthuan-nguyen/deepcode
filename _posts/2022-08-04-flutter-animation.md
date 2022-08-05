@@ -65,3 +65,5 @@ void dispose() {
     _controller?.dispose();
 }
 ```
+
+There is a drawback of this way, the animation will always rebuild the widget when the state changes, so there is a better way is use Animation Builder to improve app performance.
