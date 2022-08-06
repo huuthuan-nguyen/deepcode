@@ -63,6 +63,7 @@ I will help you to create your first component with this guide. This guide also 
 
 4. We declare a new HelloWorld component in `HelloWorld.tsx`.
 ```tsx
+
 function HelloWorld() {
   return (
     <h2>Hello World!</h2>
