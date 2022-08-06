@@ -65,7 +65,7 @@ I will help you to create your first component with this guide. This guide also 
 ```jsx
 function HelloWorld() {
   return (
-    <h2>Hello World!</h2>
+      <h2>Hello World!</h2>
   );
 }
 export default HelloWorld;
@@ -76,7 +76,7 @@ export default HelloWorld;
 import HelloWorld from './components/HelloWorld';
 function App() {
   return (
-    <HelloWorld></HelloWorld>
+      <HelloWorld></HelloWorld>
   );
 }
 export default App;
