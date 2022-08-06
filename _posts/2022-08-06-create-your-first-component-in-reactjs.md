@@ -73,7 +73,9 @@ export default HelloWorld;
 ```
 
 4. Update your `App.tsx` file
+
 ```tsx
+
 import HelloWorld from './components/HelloWorld';
 
 function App() {
