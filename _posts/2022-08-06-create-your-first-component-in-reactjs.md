@@ -62,7 +62,7 @@ I will help you to create your first component with this guide. This guide also 
 ```
 
 4. We declare a new HelloWorld component in `HelloWorld.tsx` as following.
-```jsx
+```js
 function HelloWorld() {
   return (
     <h2>Hello World!</h2>
@@ -73,7 +73,7 @@ export default HelloWorld;
 ```
 
 5. Update your `App.tsx` file.
-```jsx
+```js
 import HelloWorld from './components/HelloWorld';
 
 function App() {
