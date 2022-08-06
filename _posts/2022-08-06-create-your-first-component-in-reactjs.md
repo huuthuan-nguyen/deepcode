@@ -62,7 +62,7 @@ I will help you to create your first component with this guide. This guide also 
 ```
 
 4. We declare a new HelloWorld component in `HelloWorld.tsx` as following.
-```
+```js
 function HelloWorld() {
   return (
     <h2>Hello World!</h2>
@@ -73,7 +73,7 @@ export default HelloWorld;
 ```
 
 5. Update your `App.tsx` file.
-```
+```js
 import HelloWorld from './components/HelloWorld';
 
 function App() {
@@ -85,4 +85,4 @@ function App() {
 export default App;
 ```
 
-Note: your custom component name should use uppercase to distinguish from native HTML tag.
+6. Note: your custom component name should use uppercase to distinguish from native HTML tag.
