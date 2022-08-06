@@ -61,7 +61,7 @@ I will help you to create your first component with this guide. This guide also 
 └── README.md
 ```
 
-We declare a new HelloWorld component in `HelloWorld.tsx`
+4. We declare a new HelloWorld component in `HelloWorld.tsx`
 ```tsx
 function HelloWorld() {
   return (
@@ -72,7 +72,7 @@ function HelloWorld() {
 export default HelloWorld;
 ```
 
-4. Update your `App.tsx` file
+5. Update your `App.tsx` file
 
 ```tsx
 
