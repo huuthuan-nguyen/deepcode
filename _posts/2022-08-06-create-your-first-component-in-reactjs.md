@@ -73,7 +73,6 @@ export default HelloWorld;
 ```
 
 5. Update your `App.tsx` file
-
 ```tsx
 
 import HelloWorld from './components/HelloWorld';
