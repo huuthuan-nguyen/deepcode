@@ -68,7 +68,6 @@ function HelloWorld() {
     &lt;h2&gt;Hello World!&lt;/h2&gt;
   );
 }
-
 export default HelloWorld;
 ```
 
@@ -81,7 +80,6 @@ function App() {
     <HelloWorld></HelloWorld>
   );
 }
-
 export default App;
 ```
 
