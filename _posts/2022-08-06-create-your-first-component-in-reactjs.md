@@ -65,7 +65,7 @@ I will help you to create your first component with this guide. This guide also 
 ```js
 function HelloWorld() {
   return (
-    <h2>Hello World!</h2>
+    &lt;h2&gt;Hello World!&lt;/h2&gt;
   );
 }
 
