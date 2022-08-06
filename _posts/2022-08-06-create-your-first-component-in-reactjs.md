@@ -7,7 +7,7 @@ image: assets/images/reactjs-banner.png
 ---
 I will help you to create your first component with this guide. This guide also assume you were familiar with Typescript.
 
-1. We have a new basic reactjs project with following folder structure
+1. We have a new basic reactjs project with following folder structure.
 ```
  .
 ├── public 
@@ -24,7 +24,7 @@ I will help you to create your first component with this guide. This guide also 
 └── README.md
 ```
 
-2. Create a new folder which name `components` under `src`. This folder will contain all your components
+2. Create a new folder which name `components` under `src`. This folder will contain all your components.
 ```
  .
 ├── public/
@@ -42,7 +42,7 @@ I will help you to create your first component with this guide. This guide also 
 └── README.md
 ```
 
-3. Create a new `HelloWorld.tsx` file in `components` folder
+3. Create a new `HelloWorld.tsx` file in `components` folder.
 ```
  .
 ├── public/
@@ -61,7 +61,7 @@ I will help you to create your first component with this guide. This guide also 
 └── README.md
 ```
 
-4. We declare a new HelloWorld component in `HelloWorld.tsx`
+4. We declare a new HelloWorld component in `HelloWorld.tsx`.
 ```tsx
 function HelloWorld() {
   return (
@@ -72,7 +72,7 @@ function HelloWorld() {
 export default HelloWorld;
 ```
 
-5. Update your `App.tsx` file
+5. Update your `App.tsx` file.
 ```tsx
 
 import HelloWorld from './components/HelloWorld';
