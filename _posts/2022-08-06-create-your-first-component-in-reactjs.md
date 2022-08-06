@@ -5,7 +5,7 @@ author: kean
 categories: [ ReactJS, create, component ]
 image: assets/images/reactjs-banner.png
 ---
-I will help you to create your first component with this guide. This guide also assume you familiar with Typescript.
+I will help you to create your first component with this guide. This guide also assume you were familiar with Typescript.
 
 1. We have a new basic reactjs project with following folder structure
 ```
