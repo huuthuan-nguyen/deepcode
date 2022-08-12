@@ -4,6 +4,8 @@ title:  "Flutter animations with Animated Container"
 author: kean
 categories: [ Flutter, animation, container ]
 image: assets/images/flutter-banner.jpg
+categories:
+  - "flutter"
 ---
 We can implement Flutter animations manually or with Animated Builder, but if we only need to implement animations for Container only, there is a short way to do that with AnimatedContainer widget.
 
