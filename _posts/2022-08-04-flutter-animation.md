@@ -4,8 +4,6 @@ title:  "Flutter animations basic way"
 author: kean
 categories: [ Flutter, animation ]
 image: assets/images/flutter-banner.jpg
-categories:
-    - "flutter"
 featured: true
 ---
 There are a sereval ways to implement animations in Flutter, today I will show you the basic way to do it. This way will need 2 object, an controller to handle duration of animation, and animation widget handle the begin and end value of animation.
