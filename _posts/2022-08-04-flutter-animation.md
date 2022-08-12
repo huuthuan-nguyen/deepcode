@@ -2,7 +2,6 @@
 layout: post
 title:  "Flutter animations basic way"
 author: kean
-categories: [ Flutter, animation ]
 image: assets/images/flutter-banner.jpg
 featured: true
 categories:

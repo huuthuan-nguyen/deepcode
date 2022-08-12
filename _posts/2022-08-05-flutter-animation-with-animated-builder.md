@@ -2,7 +2,6 @@
 layout: post
 title:  "Flutter animations with Animated Builder"
 author: kean
-categories: [ Flutter, animation, builder ]
 image: assets/images/flutter-banner.jpg
 categories:
   - "flutter"

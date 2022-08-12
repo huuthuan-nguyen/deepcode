@@ -2,7 +2,6 @@
 layout: post
 title:  "Create your first component in ReactJS"
 author: kean
-categories: [ ReactJS, create, component ]
 image: assets/images/reactjs-banner.png
 categories:
   - "reactjs"

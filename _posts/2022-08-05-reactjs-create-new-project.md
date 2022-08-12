@@ -2,7 +2,6 @@
 layout: post
 title:  "Create new ReactJS project"
 author: kean
-categories: [ ReactJS, create, project ]
 image: assets/images/reactjs-banner.png
 categories:
   - "reactjs"

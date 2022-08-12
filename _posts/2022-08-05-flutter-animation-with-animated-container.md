@@ -2,7 +2,6 @@
 layout: post
 title:  "Flutter animations with Animated Container"
 author: kean
-categories: [ Flutter, animation, container ]
 image: assets/images/flutter-banner.jpg
 categories:
   - "flutter"
