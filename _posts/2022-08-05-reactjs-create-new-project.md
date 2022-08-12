@@ -6,6 +6,7 @@ categories: [ ReactJS, create, project ]
 image: assets/images/reactjs-banner.png
 categories:
   - "reactjs"
+featured: true
 ---
 This guide will help you to create new whole new ReactJS project from scratch by using `create-react-app` tool. All you need is installed Nodejs on your computer. Then we can type a simple command to create new one.
 
