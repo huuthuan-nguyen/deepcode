@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Implement Distributed Tracing in Golang"
+title:  "OpenTelemetry, Jaeger - Distributed Tracing"
 author: kean
 image: assets/images/golang-banner.png
 categories:
