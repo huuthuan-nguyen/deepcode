@@ -26,7 +26,7 @@ comments: true
 <div class="sticky-top sticky-top-80">
 <h5>Buy me a coffee</h5>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://deepcode.work/">DeepCode <i class="fa-thin fa-code"></i></a>.</p>
+<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://deepcode.work/">DeepCode <i class="fa-thin fa-book"></i></a>.</p>
 
 <a target="_blank" href="https://www.buymeacoffee.com/thuannguyen" class="btn btn-danger">Buy me a coffee</a>
 <!-- <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a> -->
