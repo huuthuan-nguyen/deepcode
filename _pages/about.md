@@ -10,6 +10,8 @@ comments: true
 
 <p>This website is built to share my code snippet about Golang, Flutter and ReactJS. Mostly about Golang and Flutter because my main focus is about Backend and Mobile development. If you have any questions just drop me a message via telegram or e-mail to me</p>
 
+<p>I'm also interested in Rustlang, WebGL, WASM and Unreal Engine 5</p>
+
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/golang-banner.png" alt="golang logo banner" /></p>
 <h4>Contact and Hiring</h4>
 
