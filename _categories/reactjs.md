@@ -1,4 +1,4 @@
 ---
-tag: reactjs
-permalink: "/category/reactjs"
+tag: solidjs
+permalink: "/category/solidjs"
 ---

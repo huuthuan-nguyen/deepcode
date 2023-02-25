@@ -8,7 +8,7 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built to share my code snippet about Golang, Flutter and ReactJS. Mostly about Golang and Flutter because my main focus is about Backend and Mobile development. If you have any questions just drop me a message via telegram or e-mail to me</p>
+<p>This website is built to share my code snippet about Golang, Flutter and SolidJS. Mostly about Golang and Flutter because my main focus is about Backend and Mobile development. If you have any questions just drop me a message via telegram or e-mail to me</p>
 
 <p>I'm also interested in Rustlang, WebGL, WASM and Unreal Engine 5</p>
 

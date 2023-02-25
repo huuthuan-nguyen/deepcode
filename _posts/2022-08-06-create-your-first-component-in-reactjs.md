@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Create your first component in ReactJS"
+title:  "Create your first component in SolidJS"
 author: kean
 image: assets/images/reactjs-banner.png
 categories:
-  - "reactjs"
+  - "solidjs"
 ---
 I will help you to create your first component with this guide. This guide also assume you were familiar with Typescript.
 
-1. We have a new basic reactjs project with following folder structure.
+1. We have a new basic solidjs project with following folder structure.
 ```
  .
 ├── public 
