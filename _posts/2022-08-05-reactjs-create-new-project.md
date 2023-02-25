@@ -2,7 +2,7 @@
 layout: post
 title:  "Create new SolidJS project"
 author: kean
-image: assets/images/reactjs-banner.png
+image: assets/images/solidjs-banner.webp
 categories:
   - "solidjs"
 featured: true
