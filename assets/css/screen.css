@@ -144,6 +144,9 @@ section.recent-posts {
     padding-left: 0;
 }
 
+.card-title {
+    font-family: "Merriweather", serif;
+}
 .listfeaturedtag h2.card-title,
 .listrecent h2.card-title {
     font-size: 1.3rem;
@@ -151,6 +154,9 @@ section.recent-posts {
     line-height: 1.25;
 }
 
+.card-text {
+    font-family: "Inter", sans-serif;
+}
 .listfeaturedtag h4.card-text,
 .listrecent h4.card-text {
     color: rgba(0, 0, 0, 0.44);
