@@ -145,7 +145,7 @@ section.recent-posts {
 }
 
 .card-title {
-    font-family: "Merriweather", serif;
+    font-family: "Linux Libertine", serif;
 }
 .listfeaturedtag h2.card-title,
 .listrecent h2.card-title {
@@ -319,7 +319,7 @@ span.post-read-more a:hover {
 }
 
 .mainheading h1.posttitle {
-    font-family: "Merriweather", serif;
+    font-family: "Linux Libertine", serif;
     font-weight: 700;
     margin-bottom: 1rem;
 }
